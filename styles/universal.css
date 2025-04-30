@@ -1,9 +1,6 @@
 body{
-
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
-    color: azure;
-
- background-color: beige;
-
+ background-color: beige;;
+ font-size: medium;
+ color: azure;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
